@@ -1,7 +1,7 @@
 h1 {
   font-size: 60px;
   text-align: center;
-  background: -webkit-linear-gradient(#0c0c0c,#e72907e8);
+  background: -webkit-linear-gradient(#0c0c0c,#e79907e8);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -11,7 +11,7 @@ h1 {
   padding: 20px;
   border: 1px solid #ccc;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  background-image: linear-gradient(red, rgba(255, 255, 0, 0.824));
+  background-image: linear-gradient(rgba(0, 162, 255, 0.842), rgba(4, 0, 255, 0.788));
 }
 .calculator {
   width: 300px;
